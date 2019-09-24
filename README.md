@@ -12,3 +12,6 @@ QT Creator 4.10.0
 ```
 
 ## Good game!
+
+![Main window](https://github.com/ArtV1ctory/game_space_cat/blob/master/space_cat.JPG)
+![Game window](https://github.com/ArtV1ctory/game_space_cat/blob/master/space_cat2.JPG)
