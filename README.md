@@ -6,8 +6,8 @@ If the number of lives becomes less than zero, the cat will die :(
 
 In the future I plan to add many interesting features to the game.
 
-```
 ### Requirements:
+```
 QT Creator 4.10.0
 ```
 
