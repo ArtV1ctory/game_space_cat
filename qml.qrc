@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/heart.png</file>
+        <file>sources/sprite.png</file>
+        <file>sources/items/cupcake.png</file>
+        <file>sources/items/icecream.png</file>
+        <file>sources/items/strawberry.png</file>
+        <file>sources/items/peppermint.png</file>
+        <file>sources/items/lollypop.png</file>
+        <file>sources/items/cake.png</file>
+        <file>sources/items/cookie.png</file>
+        <file>sources/items/life.png</file>
+        <file>sources/items/back.png</file>
+        <file>sources/items/boom.png</file>
+        <file>sources/items/back1.png</file>
+        <file>sources/items/sheet.png</file>
+    </qresource>
+</RCC>
